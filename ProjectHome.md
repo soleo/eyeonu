@@ -1,0 +1,1 @@
+This is an highly experimental project. The goal of this project is to analysis human activity by using various kinds of sensors including GPS, temperature sensor etc and human actions.
